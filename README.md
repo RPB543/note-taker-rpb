@@ -27,7 +27,7 @@ The objective of the challenge is to utilize the provided front end and formatti
 * Heroku
 
 ## Links:
-💀 [Deployed Website](https://rpb543.github.io/password-generator/)\
+💀 [Deployed Website](https://obscure-hamlet-96065.herokuapp.com)\
 👻 [Repo](https://github.com/RPB543/note-taker-rpb)\
 ☠️ [Github](https://github.com/RPB543)
 
