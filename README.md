@@ -35,4 +35,4 @@ The objective of the challenge is to utilize the provided front end and formatti
 ☠️ [Github](https://github.com/RPB543)
 
 ## Screenshot:
-![Screenshot](./assets/screenshot.PNG)
+![Screenshot](./Assets/screenshot.PNG)
